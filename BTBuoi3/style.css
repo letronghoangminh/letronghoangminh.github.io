@@ -11,7 +11,7 @@ h1 {
 
 .wrapper_2_col {
   display: flex;
-  width: 90vw;
+  width: 100%;
   flex-wrap: wrap;
   justify-content: center;
 }
@@ -45,9 +45,9 @@ h1 {
 
 .wrapper_3_col {
   display: flex;
-  width: 90vw;
+  width: 100%;
   flex-wrap: wrap;
-  justify-content: center;
+  justify-content: space-around;
 }
 
 .wrapper_3_col .item {
